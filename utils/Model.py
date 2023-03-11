@@ -43,7 +43,7 @@ class Model:
         self.pipelines = []
 
         for i in range(4):
-            with open(f'models/pipeline_{i}.dill', 'rb') as f:
+            with open(f'data/models/pipeline_{i}.dill', 'rb') as f:
                 self.pipelines.append(dill.load(f))
 
         self.tokens = []

@@ -124,7 +124,7 @@ def main():
 
         print('ROC-AUC: ', roc_auc_score(y_test, y_pred))
 
-        with open(f'models/pipeline_{i}.dill', 'wb') as f:
+        with open(f'data/models/pipeline_{i}.dill', 'wb') as f:
             dill.dump(pipelines[-1], f)
 
 
