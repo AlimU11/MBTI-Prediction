@@ -1,0 +1,960 @@
+{
+    "intp": {
+        "description": "\tThe INTP personality type is also known as the \"Logician.\" This type is analytical, logical, and enjoys exploring new ideas and concepts. They tend to be introverted and value their independence, preferring to work independently rather than in groups. INTPs are also known for their problem-solving abilities, and they have a keen eye for detail. They are constantly seeking new information and ideas, and they enjoy testing their own theories and ideas. INTPs are also creative, but they tend to be more interested in abstract concepts and ideas rather than concrete objects or projects.\n\n\tINTPs are deep thinkers who enjoy pondering abstract ideas and theories. They have a natural curiosity that drives them to seek out new information and explore unconventional ideas. However, they can be introspective and prefer to spend time alone to reflect on their thoughts and ideas. INTPs are often described as \"quietly intense,\" and they can be deeply committed to their passions and interests. They may struggle with expressing their emotions and may come across as aloof or detached. Overall, INTPs are complex individuals who value intelligence, creativity, and independent thinking, and they thrive when given the freedom to explore and experiment with new ideas.",
+        "strengths": {
+            "Analytical Thinking": "INTPs have a natural talent for analyzing complex problems and coming up with solutions.",
+            "Independent": "They enjoy working alone and do not require the approval or support of others to get their work done.",
+            "Curious": "INTPs have a thirst for knowledge and enjoy exploring new ideas and concepts.",
+            "Creative": "They enjoy exploring new ideas and concepts and are often creative in their approach to problem-solving.",
+            "Logical": "INTPs have a logical approach to problem-solving and can make decisions based on objective facts and data."
+        },
+        "weaknesses": {
+            "Socially Awkward": "INTPs can struggle with social situations and may find it difficult to connect with others.",
+            "Indecisive": "They can struggle with making decisions and may need more time to consider all their options.",
+            "Perfectionistic": "INTPs can become overly focused on details and may struggle to see the bigger picture.",
+            "Insensitive": "They may struggle to empathize with others and may come across as insensitive or cold.",
+            "Procrastination": "INTPs may struggle with procrastination and may put off tasks until the last minute."
+        },
+        "ideal_partners": {
+            "ENTJ": "ENTJs are highly independent, strategic and ambitious individuals, which can complement INTPs analytical and intellectual abilities. They share the same drive for knowledge and excellence, and their rational approach to problem-solving can create a highly effective team dynamic in both personal and professional settings.",
+            "ENTP": "ENTPs are natural partners for INTPs because of their shared love for intellectual exploration and theoretical debates. They both enjoy the process of brainstorming and coming up with creative solutions to problems. Their independent natures and preference for innovation can lead to an exciting and challenging relationship dynamic.",
+            "ESTJ": "ESTJs are highly organized and practical individuals who can provide a sense of structure and stability to an INTP's often chaotic lifestyle. They are highly efficient and focused on achieving their goals, which can inspire and motivate INTPs to follow through on their ideas. Their complementary strengths in planning and execution can make them a highly productive team.",
+            "INTJ": "INTJs share many commonalities with INTPs in terms of their analytical and strategic thinking. They are highly independent and tend to be very focused on achieving their goals, which can complement INTPs desire for intellectual stimulation and exploration. Their shared love of efficiency and effectiveness can lead to a highly productive and fulfilling partnership.",
+            "INFJ": "INFJs are compassionate and empathetic individuals who can provide a sense of emotional depth and understanding to an INTP's logical and analytical worldview. They have a unique ability to see the big picture and understand complex systems, which can complement INTPs attention to detail and analysis. Together, they can form a powerful team that balances rationality with empathy."
+        },
+        "careers": [
+            "Scientist/Researcher",
+            "Mathematician",
+            "Computer Programmer/Software Developer",
+            "Engineer",
+            "Philosopher"
+        ],
+        "interests": [
+            "Reading/Researching",
+            "Writing or creating content.",
+            "Playing Strategy Games",
+            "Building/Designing Projects",
+            "Learning new skills or languages"
+        ],
+        "famous_persons": {
+            "Immanuel Kant": {
+                "url": "https://www.personality-database.com/profile/11997",
+                "image_url": "https://static1.personality-database.com/profile_images/75ca29b7a1364396962da2ede59dbd0d.png"
+            },
+            "Albert Einstein": {
+                "url": "https://www.personality-database.com/profile/395",
+                "image_url": "https://static1.personality-database.com/profile_images/2fbabb6c6b4c4a46a9a9045b5fceab20.png"
+            },
+            "L": {
+                "url": "https://www.personality-database.com/profile/1530",
+                "image_url": "https://static1.personality-database.com/profile_images/2937ef8b276e4d0aaf20d5f9f2e2a5a1.png"
+            },
+            "Dmitri Shostakovich": {
+                "url": "https://www.personality-database.com/profile/6282",
+                "image_url": "https://static1.personality-database.com/profile_images/b73a9ab7830d4a1fb2ea7caddff14525.png"
+            },
+            "H.P. Lovecraft": {
+                "url": "https://www.personality-database.com/profile/3852",
+                "image_url": "https://static1.personality-database.com/profile_images/babfc1337a49450880eef0084da18e0e.png"
+            }
+        }
+    },
+    "entj": {
+        "description": "\tThe ENTJ personality type is also known as the \"Commander.\" This type is assertive, confident, and has a natural ability to lead others. ENTJs tend to be extroverted and are known for their strategic thinking and long-term vision. They are highly driven and goal-oriented, and are often seen as natural born leaders. ENTJs value efficiency and effectiveness, and they have a strong sense of direction and purpose. They are excellent at analyzing complex problems and developing solutions, and they are not afraid to take risks to achieve their goals.\n\n\tENTJs are natural leaders who thrive in positions of authority and responsibility. They are excellent at setting goals and developing strategies to achieve them, and are highly effective at mobilizing others to work towards a common vision. ENTJs are often described as \"visionaries\" who have a clear sense of direction and a strong desire to make a difference in the world. They are highly competitive and driven to succeed, but also have a strong sense of ethics and values. They can be charismatic and persuasive, but also direct and assertive when needed. Overall, ENTJs are complex individuals who value competence, efficiency, and achievement, and are always looking for ways to improve themselves and their surroundings.",
+        "strengths": {
+            "Confident": "ENTJs have a strong sense of self-confidence and are not easily intimidated by challenges.",
+            "Decisive": "They can make decisions quickly and confidently, often based on a combination of intuition and rational analysis.",
+            "Strategic": "ENTJs are excellent at developing long-term strategies and plans, and are highly effective at executing them.",
+            "Assertive": "They have a natural ability to lead others and can assert themselves in challenging situations.",
+            "Efficient": "ENTJs value efficiency and effectiveness, and are highly skilled at optimizing processes and systems."
+        },
+        "weaknesses": {
+            "Arrogant": "ENTJs can come across as arrogant or overly confident, which can put off others.",
+            "Impatient": "They may become frustrated with those who do not share their sense of urgency or drive.",
+            "Insensitive": "ENTJs can struggle to empathize with others and may come across as insensitive or uncaring.",
+            "Controlling": "They may struggle with delegating tasks and may micromanage others.",
+            "Risk-taking": "ENTJs may take risks that are not always justified, which can lead to negative consequences."
+        },
+        "ideal_partners": {
+            "INTP": "Logical and analytical thinkers who are highly intelligent and creative. They can provide a valuable counterbalance to ENTJs' more extroverted and assertive nature, and can help to bring a sense of calm and perspective to the relationship.",
+            "ISTP": "Highly skilled at troubleshooting and problem-solving, and are often drawn to careers in engineering, mechanics, or other technical fields. They tend to be practical and action-oriented, and can provide valuable support to ENTJs as they work towards achieving their goals.",
+            "ENTP": "Similar to INTPs, ENTPs are highly intellectual and enjoy exploring complex ideas and theories. They are also highly curious and are not afraid to challenge conventional wisdom, making them excellent partners for ENTJs who value innovation and creativity.",
+            "INTJ": "Like ENTJs, INTJs are driven and highly focused individuals who are excellent at analyzing complex problems and developing solutions. They are also highly independent and share ENTJs' love of efficiency and effectiveness, making them natural partners in both personal and professional settings.",
+            "ESTP": "Adventurous and outgoing, ESTPs are often drawn to high-energy activities and experiences. They can help ENTJs to let loose and have fun, while also providing a valuable source of support and encouragement."
+        },
+        "careers": [
+            "CEO/Business Executive",
+            "Lawyer",
+            "Entrepreneur",
+            "Marketing/Sales Manager",
+            "Consultant"
+        ],
+        "interests": [
+            "Traveling to Explore New Cultures and Ideas",
+            "Competitive Sports",
+            "Reading/Researching",
+            "Volunteering in Leadership Roles",
+            "Developing New Skills or Competencies."
+        ],
+        "famous_persons": {
+            "Aristotle": {
+                "url": "https://www.personality-database.com/profile/7775",
+                "image_url": "https://static1.personality-database.com/profile_images/77966e7d1539480ab6d2c8bdb1405784.png"
+            },
+            "Pierre-Simon Laplace": {
+                "url": "https://www.personality-database.com/profile/34970",
+                "image_url": "https://static1.personality-database.com/profile_images/cf0e57557bc5401d8a5d7a740250aa13.png"
+            },
+            "Griffith": {
+                "url": "https://www.personality-database.com/profile/4204",
+                "image_url": "https://static1.personality-database.com/profile_images/5f79bc0136064a449e4eb2826c5fb8f9.png"
+            },
+            "Richard Wagner": {
+                "url": "https://www.personality-database.com/profile/3739",
+                "image_url": "https://static1.personality-database.com/profile_images/4cac996c864a431eb789124e8d59d1e1.png"
+            },
+            "Jack London": {
+                "url": "https://www.personality-database.com/profile/14469",
+                "image_url": "https://static1.personality-database.com/profile_images/98a53cc154f946479e20971a502bca95.png"
+            }
+        }
+    },
+    "entp": {
+        "description": "\tThe ENTP personality type is also known as the \"Debater\". Individuals with this type of personality are highly analytical, logical, and enjoy engaging in intellectual debates. They are curious and enthusiastic, constantly seeking out new ideas and ways to challenge their own thinking.\n\n\tThe \"Debater\" personality type is often described as being quick-witted and sharp-tongued. They are known for their ability to see all sides of an argument and are not afraid to challenge conventional wisdom or challenge the status quo. They are highly independent thinkers who thrive on intellectual stimulation and can sometimes come across as argumentative or confrontational in their pursuit of knowledge and truth.\n\n\tDespite their sometimes combative nature, ENTPs are also highly adaptable and can work well in a variety of settings. They are often drawn to careers in law, science, or business, where their analytical skills and natural curiosity can be put to good use. Overall, the ENTP personality type is a dynamic and intellectually stimulating one, always seeking out new challenges and opportunities to learn and grow.",
+        "strengths": {
+            "Strategic Thinkers": "ENTPs are excellent at analyzing complex problems and developing innovative solutions.",
+            "Highly Intelligent": "ENTPs have a natural curiosity and love of learning that makes them highly knowledgeable in a wide range of subjects.",
+            "Persuasive cCommunicators": "ENTPs are skilled at presenting their ideas in a clear and convincing manner, and can often win over even the most skeptical audience.",
+            "Creative Problem-solvers": "ENTPs have a unique ability to think outside the box and come up with creative solutions to difficult problems.",
+            "Open-minded": "ENTPs are always willing to consider different perspectives and viewpoints, which makes them excellent collaborators and team players."
+        },
+        "weaknesses": {
+            "Argumentative": "ENTPs love to debate and can sometimes come across as overly argumentative or confrontational.",
+            "Easily Distracted": "ENTPs have a tendency to become bored easily, and can sometimes struggle to stay focused on long-term projects or goals.",
+            "Insensitive": "ENTPs' direct and logical communication style can sometimes come across as insensitive or uncaring.",
+            "Indecisive": "ENTPs love exploring different possibilities and options, which can sometimes make it difficult for them to make a decision.",
+            "Overly Critical": "ENTPs' analytical nature can sometimes lead them to be overly critical of themselves and others."
+        },
+        "ideal_partners": {
+            "INFJ": "The INFJ personality type is often seen as the perfect match for ENTPs. INFJs are highly empathetic and intuitive individuals who can provide a sense of emotional depth and stability to the relationship.",
+            "INTJ": "Like ENTPs, INTJs are analytical and strategic thinkers who enjoy exploring complex ideas and theories. They are also highly independent and share ENTPs' love of efficiency and effectiveness, making them natural partners in both personal and professional settings.",
+            "ENFJ": "ENFJs are warm, charismatic individuals who are highly skilled at building and maintaining relationships. They share ENTPs' love of communication and are natural collaborators, making them excellent partners for ENTPs who enjoy working in teams.",
+            "INFP": "INFPs are sensitive and compassionate individuals who value authenticity and creativity. They are often drawn to ENTPs' adventurous spirit and love of new experiences, and can provide a sense of emotional depth and support to the relationship. INFPs also have a unique ability to understand and appreciate ENTPs' creative ideas and unconventional thinking."
+        },
+        "careers": [
+            "Entrepreneur",
+            "Lawyer",
+            "Marketing Manager",
+            "Consultant",
+            "Scientist"
+        ],
+        "interests": [
+            "Debate and argumentation",
+            "Creative writing",
+            "Video games and puzzles",
+            "Science fiction and fantasy",
+            "Travel and exploration"
+        ],
+        "famous_persons": {
+            "Socrates": {
+                "url": "https://www.personality-database.com/profile/3023/socrates-western-philosophy-mbti-personality-type",
+                "image_url": "https://static1.personality-database.com/profile_images/8cf991149a814c8eb5c393e93be6de82.png"
+            },
+            "Thomas Edison": {
+                "url": "ttps://www.personality-database.com/profile/735",
+                "image_url": "https://static1.personality-database.com/profile_images/e2d9cf6c2de74ab2ab464bb1e8cf9706.png"
+            },
+            "Rintaro Okabe": {
+                "url": "https://www.personality-database.com/profile/2682",
+                "image_url": "https://static1.personality-database.com/profile_images/578d5a52040b4ee79ebdca38226407f8.png"
+            },
+            "Frank Zappa": {
+                "url": "https://www.personality-database.com/profile/1038",
+                "image_url": "https://static1.personality-database.com/profile_images/adc617f4af71400f80782e199b0c6c24.png"
+            },
+            "Leonardo da Vinci": {
+                "url": "https://www.personality-database.com/profile/3024",
+                "image_url": "https://static1.personality-database.com/profile_images/3a157b47d34b4fba9226df7dcc3629b6.png"
+            }
+        }
+    },
+    "intj": {
+        "description": "\tThe INTJ personality type is also known as the \"Architect.\" This type is strategic, analytical, and has a strong vision for the future. INTJs tend to be introverted and are known for their independence and self-confidence. They are driven by their internal compass and have a strong sense of purpose. INTJs value knowledge and competence, and they strive for excellence in everything they do. They are also creative thinkers who enjoy solving complex problems and developing innovative solutions.\n\n\tINTJs are deep thinkers who enjoy exploring complex concepts and theories. They have a natural curiosity and are constantly seeking to expand their knowledge and understanding of the world. They can be highly focused and driven, and are often driven by a strong sense of purpose. However, they can also be introverted and may prefer to spend time alone to reflect on their thoughts and ideas. INTJs are often described as \"visionaries\" who have a strong sense of direction and a clear view of what they want to achieve. They are excellent planners and can anticipate problems before they arise, making them effective leaders and strategists. Overall, INTJs are complex individuals who value intelligence, competence, and creativity, and they thrive when given the freedom to explore and innovate.",
+        "strengths": {
+            "Strategic Thinkers": "INTJs are excellent at developing long-term strategies and plans for the future.",
+            "Independent": "They are self-sufficient and can work well on their own without needing the guidance of others.",
+            "Analytical": "INTJs have a keen eye for detail and can analyze complex problems to find efficient solutions.",
+            "Confident": "They have a strong sense of self-confidence and are not easily swayed by the opinions of others.",
+            "Innovative": "INTJs are creative thinkers who enjoy exploring new ideas and developing new solutions to problems."
+        },
+        "weaknesses": {
+            "Perfectionistic": "INTJs can become overly critical of themselves and others, and may struggle with accepting imperfection.",
+            "Intolerant": "They may become impatient with those who do not share their level of competence or vision.",
+            "Arrogant": "INTJs may come across as arrogant or cold due to their self-confidence and independent nature.",
+            "Overthinking": "They may become stuck in analysis-paralysis and struggle to take action on their ideas.",
+            "Difficulty Expressing Emotions": "INTJs may struggle to express their emotions and may come across as cold or unfeeling."
+        },
+        "ideal_partners": {
+            "ENFP": "ENFPs are warm, outgoing and imaginative individuals who can bring a sense of joy and excitement to the INTJ's often serious and analytical mindset. They share the same passion for new experiences and are always willing to try new things, which can help the INTJ break out of their comfort zone and explore the world in a new light.",
+            "ENTJ": "ENTJs are natural partners for INTJs due to their shared love for strategy and efficiency. They both enjoy taking charge and creating a plan of action, which can make them a highly effective team in both personal and professional settings. Their shared focus on achieving their goals can lead to a strong and productive partnership.",
+            "ENTP": "ENTPs are highly analytical and creative individuals who can challenge the INTJ's thinking and push them to consider new perspectives. They are natural debaters and enjoy intellectual exploration, which can lead to fascinating and thought-provoking conversations. Their shared love for innovation can lead to an exciting and fulfilling relationship dynamic.",
+            "ISTJ": "ISTJs are highly organized and practical individuals who can provide a sense of structure and stability to an INTJ's often chaotic lifestyle. They are highly reliable and focused on achieving their goals, which can complement the INTJ's determination and drive. Their complementary strengths in planning and execution can make them a highly productive team.",
+            "INFJ": "INFJs are compassionate and intuitive individuals who can provide a sense of emotional depth and understanding to the INTJ's often rational and logical worldview. They are highly empathetic and have a unique ability to see the big picture, which can complement the INTJ's attention to detail and analysis. Together, they can form a powerful team that balances rationality with empathy.",
+            "INFP": "INFPs are sensitive and creative individuals who can provide a sense of emotional depth and authenticity to the INTJ's often detached and analytical mindset. They are often drawn to the INTJ's intellect and curiosity, and can provide a supportive and understanding presence in the relationship. Their shared love of creativity and individuality can lead to a unique and fulfilling partnership."
+        },
+        "careers": [
+            "Scientist/Researcher",
+            "CEO/Business Executive",
+            "Lawyer",
+            "Engineer",
+            "Architect"
+        ],
+        "interests": [
+            "Reading/Researching",
+            "Solving Puzzles or Brain Teasers",
+            "Developing New Skills or Competencies",
+            "Writing or Creating Content",
+            "Traveling to Explore New Cultures and Ideas."
+        ],
+        "famous_persons": {
+            "Friedrich Nietzsche": {
+                "url": "https://www.personality-database.com/profile/3451",
+                "image_url": "https://static1.personality-database.com/profile_images/5527c303f2d94e6397441200174c6138.png"
+            },
+            "Nikola Tesla": {
+                "url": "https://www.personality-database.com/profile/734",
+                "image_url": "https://static1.personality-database.com/profile_images/3ccf1f38a0464ef38268b72d86e52c9b.png"
+            },
+            "Lelouch vi Britannia": {
+                "url": "https://www.personality-database.com/profile/2613",
+                "image_url": "https://static1.personality-database.com/profile_images/229c2427f7bb478d9dd84d3ecebf3d3a.png"
+            },
+            "Ludwig van Beethoven": {
+                "url": "https://www.personality-database.com/profile/5668",
+                "image_url": "https://static1.personality-database.com/profile_images/b0f49d807c5f447dac3a2f93b6f736fe.png"
+            },
+            "Isaac Asimov": {
+                "url": "https://www.personality-database.com/profile/2910",
+                "image_url": "https://static1.personality-database.com/profile_images/9cd71fe887644fb7901f28203009bda1.png"
+            }
+        }
+    },
+    "infj": {
+        "description": "\tThe INFJ personality type is also known as the \"Advocate.\" Advocates are intuitive, empathetic, and sensitive individuals who are deeply committed to helping others. They are often seen as wise, compassionate, and insightful, with a natural ability to understand and empathize with the emotions and perspectives of others. INFJs are driven by a strong sense of purpose and a desire to make a positive impact on the world, and they often pursue careers or volunteer work that allows them to fulfill this need.\n\n\tAdvocates are known for their strong values and beliefs, which guide their decisions and actions. They are deeply committed to their principles and will go to great lengths to uphold them. INFJs are also highly creative and often have a talent for expressing themselves through writing, music, or other forms of art. They enjoy exploring complex ideas and concepts, and they are often drawn to philosophy, spirituality, and psychology. Advocates value authenticity and honesty, and they are always striving to be true to themselves and their beliefs. Despite their quiet and reserved demeanor, INFJs have a strong presence and a powerful ability to inspire and motivate others.",
+        "strengths": {
+            "Empathetic": "INFJs are highly attuned to the emotions and needs of others, and are able to offer support and guidance with a deep sense of empathy and understanding.",
+            "Intuitive": "INFJs possess a strong intuition that allows them to see beyond the surface level of a situation and understand its deeper meaning.",
+            "Idealistic": "INFJs are driven by a desire to make the world a better place and to help others achieve their full potential.",
+            "Creative": "INFJs are often highly creative individuals who enjoy expressing themselves through art, writing, and music.",
+            "Strategic Thinkers": "INFJs possess a unique combination of empathy and strategic thinking, allowing them to develop effective solutions to complex problems."
+        },
+        "weaknesses": {
+            "Perfectionistic": "INFJs have high standards for themselves and others, and can sometimes struggle with feelings of inadequacy or self-doubt.",
+            "Highly Sensitive": "INFJs are often deeply affected by the emotions and experiences of others, which can sometimes lead to emotional exhaustion or burnout.",
+            "Indecisive": "INFJs have a tendency to consider all possibilities and options before making a decision, which can sometimes lead to indecisiveness or inaction.",
+            "Overly Idealistic": "INFJs' idealism can sometimes lead them to overlook practical considerations or to become overly invested in their vision for the future.",
+            "Self-sacrificing": "INFJs' desire to help others can sometimes lead them to neglect their own needs and well-being."
+        },
+        "ideal_partners": {
+            "ENFP": "ENFPs share INFJs' passion for personal growth and making a positive impact on the world. Their outgoing and enthusiastic nature can energize INFJs, and their creativity and love for adventure can bring excitement to the relationship. However, their tendency to be spontaneous and indecisive can sometimes clash with INFJs' need for structure and planning.",
+            "ENTP": "ENTPs are analytical and strategic thinkers who can engage in stimulating debates with INFJs. They share INFJs' desire to explore complex ideas and create innovative solutions. However, their tendency to focus on logic and reason rather than emotions can sometimes lead to misunderstandings with INFJs who value empathy and harmony in relationships.",
+            "INTJ": "INTJs share INFJs' sense of purpose and long-term vision. Their analytical and logical approach to problem-solving can complement INFJs' intuitive and insightful nature. However, their direct and assertive communication style can sometimes clash with INFJs' desire for diplomacy and tactfulness.",
+            "INFP": "INFPs share INFJs' creativity and idealism, and they can provide emotional depth and support to the relationship. Their strong values and empathy can align with INFJs' desire for authenticity and meaningful connections. However, their tendency to be emotionally sensitive and easily overwhelmed can sometimes pose a challenge for INFJs who value stability and consistency in relationships.",
+            "ISTJ": "ISTJs are dependable and practical individuals who share INFJs' desire to make a positive impact on the world. Their strong sense of duty and commitment can provide stability and grounding to the relationship. However, their preference for routine and structure can sometimes clash with INFJs' need for flexibility and spontaneity.",
+            "ESFJ": "ESFJs are warm and caring individuals who value harmony and cooperation. They share INFJs' desire to help others and can provide a sense of emotional support and stability to the relationship. However, their focus on tradition and social norms can sometimes clash with INFJs' desire for individuality and authenticity."
+        },
+        "careers": [
+            "Counselor",
+            "Social Worker",
+            "Writer",
+            "Psychologist",
+            "Artist"
+        ],
+        "interests": [
+            "Writing and journaling",
+            "Reading and research",
+            "Yoga and meditation",
+            "Nature walks and hiking",
+            "Listening to music and attending concerts"
+        ],
+        "famous_persons": {
+            "Arthur Schopenhauer": {
+                "url": "https://www.personality-database.com/profile/7395",
+                "image_url": "https://static1.personality-database.com/profile_images/d8b611e8ad0c4a3faef696f1c392fbbb.png"
+            },
+            "Carl Jung": {
+                "url": "https://www.personality-database.com/profile/2162",
+                "image_url": "https://static1.personality-database.com/profile_images/0c5cf5b9d83e407ba5e348dab6e151d2.png"
+            },
+            "Johan Liebert": {
+                "url": "https://www.personality-database.com/profile/2591",
+                "image_url": "https://static1.personality-database.com/profile_images/1f5b8c53b664400eb571895a57017ed8.png"
+            },
+            "Marilyn Manson": {
+                "url": "https://www.personality-database.com/profile/2715",
+                "image_url": "https://static1.personality-database.com/profile_images/e64c0d4411974b2c82c454f2d19d4343.png"
+            },
+            "Fyodor Dostoyevsky": {
+                "url": "https://www.personality-database.com/profile/11589",
+                "image_url": "https://static1.personality-database.com/profile_images/0702629eac6d4315be9df00a33d44150.png"
+            }
+        }
+    },
+    "infp": {
+        "description": "\tThe INFP personality type is also known as the \"Mediator.\" INFPs are characterized by their idealistic and compassionate nature, as well as their strong value system. They are often described as introspective and introspective, spending a lot of time thinking deeply about their own values and beliefs, as well as the world around them. INFPs have a natural ability to empathize with others and are highly sensitive to the emotions of those around them.\n\n\tINFPs tend to be creative and imaginative individuals who are driven by their desire to make the world a better place. They are often drawn to careers in the arts or helping professions, where they can use their creativity and empathy to make a difference in the lives of others. INFPs are also deeply committed to their personal relationships and value authenticity and intimacy in their interactions with others. While they may appear reserved or shy at first, INFPs have a deep capacity for emotional connection and can be fiercely loyal and devoted to those they care about.",
+        "strengths": {
+            "Empathetic": "INFPs are highly attuned to the emotions of others and are skilled at providing emotional support and understanding.",
+            "Creative": "INFPs have a rich inner world and a natural creativity that allows them to think outside the box and come up with unique ideas and solutions.",
+            "Idealistic": "INFPs are guided by their inner values and principles, which they strive to uphold in all areas of their lives.",
+            "Compassionate": "INFPs are driven by a deep sense of compassion for others and are often drawn to helping professions.",
+            "Authentic": "INFPs value authenticity and honesty in themselves and others, and strive to live in accordance with their true selves."
+        },
+        "weaknesses": {
+            "Overly Idealistic": "INFPs can become so focused on their vision of an ideal world that they struggle with the realities of everyday life.",
+            "Indecisive": "INFPs can struggle with decision-making, as they want to consider all possibilities and make the best choice for everyone involved.",
+            "Easily Overwhelmed": "INFPs can become overwhelmed by stress and may need time alone to recharge and process their emotions.",
+            "Highly Sensitive": "INFPs are highly sensitive individuals and may be easily hurt or offended by criticism or perceived slights.",
+            "Difficulty with Conflict": "INFPs prefer harmony and may avoid conflict, even when it is necessary for resolution or growth."
+        },
+        "ideal_partners": {
+            "ENFJ": "ENFJs are outgoing and personable, often drawn to leadership roles where they can make a positive impact on others. They share the INFP's desire to help others, but are more extroverted and action-oriented. In a relationship, ENFJs are supportive and attentive, but may need help understanding the INFP's need for alone time.",
+            "INFJ": "INFJs are introspective and intuitive, sharing the INFP's idealism and desire for meaning. They are often drawn to helping professions and have a strong sense of personal values. In a relationship, INFJs are attentive and supportive, but may struggle with expressing their own needs and emotions.",
+            "ESFJ": "ESFJs are warm and nurturing, valuing tradition and stability. They are often drawn to service-oriented professions and enjoy creating a sense of harmony in their relationships. In a relationship with an INFP, ESFJs provide a sense of security and stability, but may struggle with understanding the INFP's need for creative expression and alone time.",
+            "ENFP": "ENFPs are outgoing and curious, valuing creativity and exploration. They share the INFP's love of creativity and self-expression, but are more outgoing and action-oriented. In a relationship, ENFPs are enthusiastic and supportive, but may struggle with following through on commitments.",
+            "ISFJ": "ISFJs are loyal and dependable, valuing tradition and stability. They are often drawn to service-oriented professions and enjoy creating a sense of harmony in their relationships. In a relationship with an INFP, ISFJs provide a steady and supportive presence, but may struggle with understanding the INFP's need for creative expression and exploration."
+        },
+        "careers": [
+            "Writer",
+            "Counselor/Therapist",
+            "Artist/Graphic Designer",
+            "Social Worker",
+            "Humanitarian/Non-profit work"
+        ],
+        "interests": [
+            "Writing/Journaling",
+            "Creative pursuits (e.g. painting, music)",
+            "Meditation/Yoga",
+            "Nature walks/hikes",
+            "Volunteering for a cause they believe in"
+        ],
+        "famous_persons": {
+            "Albert Camus": {
+                "url": "https://www.personality-database.com/profile/5940",
+                "image_url": "https://static1.personality-database.com/profile_images/d9e7617cf32e43658228e8467d379943.png"
+            },
+            "Isabel Briggs Myers": {
+                "url": "https://www.personality-database.com/profile/26056",
+                "image_url": "https://static1.personality-database.com/profile_images/5d37535c3ee340f2ba16a477a1869c1e.png"
+            },
+            "Shinji Ikari": {
+                "url": "https://www.personality-database.com/profile/4171",
+                "image_url": "https://static1.personality-database.com/profile_images/42e02d07958d40379e5c200c5ab53ce0.png"
+            },
+            "David Bowie": {
+                "url": "https://www.personality-database.com/profile/1046",
+                "image_url": "https://static1.personality-database.com/profile_images/ee9569c09e2d4c0e9f42bb02b434682b.png"
+            },
+            "Vincent van Gogh": {
+                "url": "https://www.personality-database.com/profile/4977",
+                "image_url": "https://static1.personality-database.com/profile_images/24965579a6e74a8eab0b911617238d19.png"
+            }
+        }
+    },
+    "enfj": {
+        "description": "\tThe ENFJ personality type is also known as the \"Protagonist\". ENFJs are natural-born leaders who have a strong desire to make a positive impact on the world. They are driven by their empathy and their ability to understand and connect with others, and they are often drawn to careers in teaching, counseling, or social work. ENFJs have excellent communication skills and are highly skilled at building and maintaining relationships. They are able to inspire and motivate others, and they are skilled at bringing people together to work towards a common goal.\n\n\tIn relationships, ENFJs are highly supportive and nurturing partners. They are often drawn to individuals who share their values and beliefs, and they are highly invested in building a strong emotional connection with their partner. ENFJs are excellent listeners and are highly attuned to the emotional needs of their partner, making them highly empathetic and understanding partners. They are able to provide emotional support and guidance to their partners, and they are highly committed to working through any challenges that arise in the relationship. Overall, ENFJs are highly compassionate and caring individuals who are dedicated to making the world a better place.",
+        "strengths": {
+            "Empathetic": "ENFJs are highly attuned to the emotions and needs of others, and are able to use this insight to support and motivate those around them.",
+            "Charismatic": "ENFJs have a natural charm and presence that allows them to connect with people easily and inspire them to action.",
+            "Visionary": "ENFJs have a strong sense of purpose and a clear vision of how they can make a positive impact on the world.",
+            "Organized": "ENFJs are skilled at managing complex tasks and projects, and are able to motivate others to work towards a common goal.",
+            "Diplomatic": "ENFJs are skilled at navigating conflicts and finding creative solutions that satisfy the needs of all parties involved."
+        },
+        "weaknesses": {
+            "Overly Idealistic": "ENFJs can be so focused on their vision of a better world that they may become disillusioned with the realities of the present.",
+            "Perfectionistic": "ENFJs may hold themselves and others to impossibly high standards, which can lead to feelings of disappointment and frustration.",
+            "Overcommitted": "ENFJs may take on too many responsibilities at once, which can lead to burnout and exhaustion.",
+            "Sensitive": "ENFJs may take criticism or rejection personally, which can lead to feelings of self-doubt or defensiveness.",
+            "Manipulative": "ENFJs may use their social skills to influence or manipulate others in order to achieve their goals."
+        },
+        "ideal_partners": {
+            "INFP": "ENFJs and INFPs share a deep sense of empathy and a desire to help others, but INFPs may be better equipped to help the ENFJ focus on their own needs and emotions. INFPs can provide a sense of emotional depth and understanding to the relationship, and may appreciate the ENFJ's ability to connect with others.",
+            "ISFP": "ISFPs share the ENFJ's compassion and desire to help others, but are more grounded in their physical surroundings. ISFPs may help the ENFJ stay in touch with their senses and provide a sense of stability and security in the relationship.",
+            "INFJ": "INFJs share the ENFJ's vision and sense of purpose, but are more introspective and may provide a sense of emotional depth and understanding. INFJs may help the ENFJ understand and express their own needs and emotions, while also sharing their own unique perspective and insight.",
+            "ENFP": "ENFPs share the ENFJ's outgoing and social nature, and may provide a sense of excitement and spontaneity to the relationship. ENFPs may help the ENFJ stay open to new experiences and ideas, while also appreciating the ENFJ's ability to connect with and inspire others.",
+            "ESFJ": "ESFJs share the ENFJ's desire for stability and tradition, and may provide a sense of comfort and security in the relationship. ESFJs may also appreciate the ENFJ's ability to connect with and understand others, while also valuing the ENFJ's strong sense of purpose and vision.",
+            "ISFJ": "ISFJs share the ENFJ's sense of duty and responsibility, and may provide a sense of stability and reliability in the relationship. ISFJs may also appreciate the ENFJ's ability to inspire and lead others, while also valuing the ENFJ's compassion and desire to help others."
+        },
+        "careers": [
+            "Non-profit organizations or activism",
+            "Teaching or mentoring",
+            "Counseling or therapy",
+            "Event planning or public relations",
+            "Politics or government"
+        ],
+        "interests": [
+            "Volunteering or community service",
+            "Creative writing or storytelling",
+            "Public speaking or debate",
+            "Fitness or wellness activities",
+            "Cooking or entertaining"
+        ],
+        "famous_persons": {
+            "Desiderius Erasmus": {
+                "url": "https://www.personality-database.com/profile/54434",
+                "image_url": "https://static1.personality-database.com/profile_images/45cbba2baa2f4ad4b11408f1294e6109.png"
+            },
+            "Abraham Maslow": {
+                "url": "https://www.personality-database.com/profile/26324",
+                "image_url": "https://static1.personality-database.com/profile_images/45c6439f91284a74a33ed6c72b04d9ed.png"
+            },
+            "Makima": {
+                "url": "https://www.personality-database.com/profile/44140",
+                "image_url": "https://static1.personality-database.com/profile_images/eb793d4c788f497b8bf3991494185126.png"
+            },
+            "Johann Wolfgang von Goethe": {
+                "url": "https://www.personality-database.com/profile/3281",
+                "image_url": "https://static1.personality-database.com/profile_images/0995b2bbe99340d19156257da226dfd9.png"
+            },
+            "Harry Styles": {
+                "url": "https://www.personality-database.com/profile/1007",
+                "image_url": "https://static1.personality-database.com/profile_images/1afa0ae5bdec408ba60d898c70c66290.png"
+            }
+        }
+    },
+    "enfp": {
+        "description": "\tThe ENFP personality type is also known as the \"Campaigner\". ENFPs are enthusiastic, creative, and passionate individuals who are natural-born leaders. They possess excellent communication skills and have a contagious energy that inspires others to follow their lead. ENFPs are driven by a desire to make a positive impact on the world around them and are always eager to explore new possibilities and ideas.\n\n\tENFPs are known for their charisma and social skills, and they are often described as \"people persons\". They thrive in social situations and enjoy engaging with others on a personal level. ENFPs are natural empathizers, and they have an innate ability to understand and connect with people from all walks of life. They are often drawn to careers that allow them to express their creativity, such as writing, art, or performing, but they are equally comfortable in leadership roles where they can use their communication skills to inspire and motivate others.",
+        "strengths": {
+            "Innovative": "ENFPs are imaginative and creative, often coming up with unique solutions to problems.",
+            "Enthusiastic": "They are enthusiastic and optimistic, bringing energy and positivity to any situation.",
+            "Empathetic": "ENFPs are naturally empathetic and able to understand the emotions of others.",
+            "Curious": "They have a strong desire to explore new ideas and experiences.",
+            "Charming": "ENFPs are charming and charismatic, able to connect with people from all walks of life."
+        },
+        "weaknesses": {
+            "Disorganized": "ENFPs can struggle with organization and follow-through on tasks.",
+            "Overly emotional": "They can become overly emotional and struggle with objective decision-making.",
+            "Impulsive": "ENFPs may act impulsively, sometimes making decisions without fully considering the consequences.",
+            "Easily Distracted": "They may become easily distracted by new ideas or experiences.",
+            "Unpredictable": "ENFPs can be unpredictable, sometimes changing their minds or behaviors unexpectedly."
+        },
+        "ideal_partners": {
+            "INTJ": "INTJs are highly analytical and logical, providing a sense of balance and structure to the ENFP's spontaneous and emotional nature. They share the ENFP's love for learning and growth, making for a dynamic and stimulating relationship. In a relationship with an ENFP, INTJs can help ground them in practical matters and provide a sense of direction and focus.",
+            "INFJ": "INFJs are introspective and empathetic, sharing the ENFP's passion and idealism. They value deep, meaningful connections and can provide a sense of emotional depth and understanding to the relationship. In a relationship with an ENFP, INFJs can help the ENFP explore their own emotions and needs, while also supporting their drive for adventure and exploration.",
+            "ENFJ": "ENFJs are outgoing and personable, sharing the ENFP's love of people and socializing. They are natural leaders and can provide a sense of stability and support in the relationship. In a relationship with an ENFP, ENFJs can help the ENFP prioritize their goals and aspirations, while also providing a sense of security and comfort.",
+            "ISFJ": "ISFJs are dependable and caring, valuing tradition and stability. They are often drawn to service-oriented professions and enjoy creating a sense of harmony in their relationships. In a relationship with an ENFP, ISFJs can provide a sense of security and reliability, while also supporting the ENFP's need for creativity and exploration."
+        },
+        "careers": [
+            "Writer/Journalist",
+            "Counselor/Therapist",
+            "Teacher",
+            "Event Planner",
+            "Entrepreneur"
+        ],
+        "interests": [
+            "Traveling",
+            "Creative pursuits",
+            "Socializing",
+            "Volunteer work",
+            "Learning"
+        ],
+        "famous_persons": {
+            "Jacques Derrida": {
+                "url": "https://www.personality-database.com/profile/39139",
+                "image_url": "https://static1.personality-database.com/profile_images/1b1ef7cd83f44da6a863d0d99aafbf27.png"
+            },
+            "Michio Kaku": {
+                "url": "https://www.personality-database.com/profile/6615",
+                "image_url": "https://static1.personality-database.com/profile_images/cf00d66fd32240bd8db3328e3f8da9f7.png"
+            },
+            "Holo": {
+                "url": "https://www.personality-database.com/profile/9574",
+                "image_url": "https://static1.personality-database.com/profile_images/8f77b1a87c534948962f6925d29911a2.png"
+            },
+            "Kanye West": {
+                "url": "https://www.personality-database.com/profile/1029",
+                "image_url": "https://static1.personality-database.com/profile_images/4933df62f7554f3cacfadd83b39ac158.png"
+            },
+            "Salvador Dalí": {
+                "url": "https://www.personality-database.com/profile/4274",
+                "image_url": "https://static1.personality-database.com/profile_images/c16c32ead18c457cb8059932f4504202.png"
+            }
+        }
+    },
+    "istj": {
+        "description": "\tThe ISTJ personality type is also known as the \"Logistician.\" ISTJs are practical and responsible individuals who value order, structure, and stability. They have a strong sense of duty and take pride in fulfilling their obligations, whether in their personal or professional lives. ISTJs are typically very detail-oriented and thrive in environments where rules and procedures are clearly defined. They are often viewed as dependable and reliable, as they tend to be methodical and diligent in their approach to tasks.\n\n\tISTJs are typically introverted and prefer to work alone or in small groups. They are not typically comfortable in situations that involve a lot of ambiguity or uncertainty, preferring instead to work within established guidelines and frameworks. They are often drawn to careers in fields such as accounting, law enforcement, or the military, where their attention to detail and ability to follow rules are highly valued. In personal relationships, ISTJs are often seen as loyal and supportive partners who are willing to go to great lengths to help those they care about. However, they may struggle to express their emotions and may need to work on opening up and sharing their feelings more openly.",
+        "strengths": {
+            "Reliability": "ISTJs are dependable and consistent, and they can be counted on to follow through on their commitments.",
+            "Organizational Skills": "They are highly organized and efficient, and they excel at managing complex projects and tasks.",
+            "Attention to Detail": "ISTJs have a keen eye for detail and are able to identify and correct errors quickly.",
+            "Practicality": "They are highly pragmatic and able to make decisions based on practical considerations.",
+            "Loyalty": "ISTJs are deeply committed to their relationships and obligations, and they are highly loyal to those they care about."
+        },
+        "weaknesses": {
+            "Rigidity": "ISTJs can be inflexible and resistant to change, often preferring the familiar and established over new and untested ideas.",
+            "Stubbornness": "They may be unwilling to consider alternative viewpoints or perspectives, which can lead to conflict with others.",
+            "Judgmental": "ISTJs may be overly critical of themselves and others, and they may be quick to judge or dismiss those who do not meet their standards.",
+            "Difficulty expressing emotions": "ISTJs may struggle to communicate their feelings, which can make it challenging for them to connect with others on an emotional level.",
+            "Overly Cautious": "They may be overly cautious or risk-averse, which can limit their opportunities for growth and development."
+        },
+        "ideal_partners": {
+            "ESFP": "ESFPs are outgoing, spontaneous individuals who enjoy living in the moment and experiencing new things. They can bring a sense of excitement and adventure to the relationship, which can be a great complement to the ISTJ's practical and grounded nature. ESFPs are also skilled at connecting with others on an emotional level, which can help the ISTJ to open up and express their feelings.",
+            "ESTP": "Like ESFPs, ESTPs are highly spontaneous and adventurous individuals who enjoy taking risks and living life to the fullest. They can help the ISTJ to break out of their shell and try new things, while also providing a sense of excitement and fun to the relationship. ESTPs are also highly independent and self-motivated, which can be a great match for the ISTJ's work ethic and dedication.",
+            "ISFJ": "ISFJs are loyal and dependable individuals who value tradition and stability. They share the ISTJ's practical nature and attention to detail, and can provide a sense of emotional support and stability to the relationship. ISFJs are also highly empathetic and attuned to the needs of others, which can help the ISTJ to open up and express their feelings more freely.",
+            "ISTP": "ISTPs are analytical and independent individuals who enjoy exploring new ideas and concepts. They share the ISTJ's love of logic and practicality, and can provide a sense of intellectual stimulation to the relationship. ISTPs are also highly self-sufficient and adaptable, which can be a great match for the ISTJ's preference for structure and routine."
+        },
+        "careers": [
+            "Accountant",
+            "Project Manager",
+            "Engineer",
+            "Lawyer",
+            "Military Officer"
+        ],
+        "interests": [
+            "Reading",
+            "Gardening",
+            "Cooking",
+            "Traveling",
+            "Playing board games"
+        ],
+        "famous_persons": {
+            "Montesquieu": {
+                "url": "https://www.personality-database.com/profile/47067",
+                "image_url": "https://static1.personality-database.com/profile_images/8e54fee620814814a817cdc2d1a8738d.png"
+            },
+            "Sigmund Freud": {
+                "url": "https://www.personality-database.com/profile/2314",
+                "image_url": "https://static1.personality-database.com/profile_images/47fe833c4d484dc2af14a5c617ed3098.png"
+            },
+            "Yoshikage Kira": {
+                "url": "https://www.personality-database.com/profile/5207",
+                "image_url": "https://static1.personality-database.com/profile_images/3b424150b3a74c11b2d5d1c7df1b5223.png"
+            },
+            "Johann Sebastian Bach": {
+                "url": "https://www.personality-database.com/profile/5670",
+                "image_url": "https://static1.personality-database.com/profile_images/2ab9abcb5cc84765a21f7e61547b513a.png"
+            },
+            "Maxim Gorky": {
+                "url": "https://www.personality-database.com/profile/52808",
+                "image_url": "https://static1.personality-database.com/profile_images/ba612f13bba74e77b2ba6682890be7c7.png"
+            }
+        }
+    },
+    "isfj": {
+        "description": "\tThe ISFJ personality type is known as the \"Defender\". These individuals are characterized by their strong sense of duty and loyalty to those around them. ISFJs are reliable, responsible, and practical, and they take pride in their ability to provide support and stability to others. They have a natural tendency to prioritize the needs of others over their own, and are often drawn to careers in healthcare, social work, or teaching where they can use their nurturing and compassionate nature to help others.\n\n\tISFJs are also known for their attention to detail and their strong work ethic. They are thorough and methodical in their approach to tasks, and take pride in doing things the right way. They are dependable team players who value order and stability, and are often respected for their ability to keep things running smoothly. While ISFJs may not be the most outgoing or expressive individuals, they are deeply caring and committed to the people and causes they care about, making them valued members of any community or organization.",
+        "strengths": {
+            "Loyal": "ISFJs are deeply committed to their relationships and are known for their unwavering loyalty.",
+            "Reliable": "ISFJs are practical and dependable individuals who take their responsibilities seriously.",
+            "Compassionate": "ISFJs are driven by a desire to help others and often pursue careers in service-oriented professions.",
+            "Patient": "ISFJs are able to tolerate and endure difficult situations and are often seen as a calming presence in chaotic environments.",
+            "Organized": "ISFJs have a strong sense of order and are skilled at keeping things running smoothly."
+        },
+        "weaknesses": {
+            "Inflexible": "ISFJs may struggle with change and may become rigid in their thinking and behaviors.",
+            "Avoids Conflict": "ISFJs may avoid conflict and may have difficulty standing up for themselves or asserting their own needs and desires.",
+            "Overly Self-Critical": "ISFJs may be too hard on themselves and may struggle with self-doubt and perfectionism.",
+            "Overburdened": "ISFJs may take on too much responsibility and may struggle with setting boundaries and saying \"no\" to others.",
+            "Resistant to Change": "ISFJs may be resistant to change and may struggle with adapting to new situations or environments."
+        },
+        "ideal_partners": {
+            "ENFJ": "ENFJs are outgoing and personable, often drawn to leadership roles where they can make a positive impact on others. They share the ISFJ's desire to help others, but are more extroverted and action-oriented. In a relationship, ENFJs provide a sense of excitement and adventure, but may need help understanding the ISFJ's need for stability and routine.",
+            "ESFJ": "ESFJs are warm and nurturing, valuing tradition and stability. They are often drawn to service-oriented professions and enjoy creating a sense of harmony in their relationships. In a relationship with an ISFJ, ESFJs provide a steady and supportive presence, but may struggle with understanding the ISFJ's need for personal space and privacy.",
+            "ISTJ": "ISTJs are practical and dependable individuals who share the ISFJ's sense of responsibility and respect for tradition. They are often drawn to careers in law enforcement or the military and have a strong sense of duty. In a relationship, ISTJs provide a stable and reliable presence, but may struggle with understanding the ISFJ's emotional needs and desires.",
+            "INFJ": "INFJs are introspective and intuitive individuals who share the ISFJ's compassion and desire to help others. They have a strong sense of personal values and often pursue careers in counseling or social work. In a relationship, INFJs are attentive and supportive, but may struggle with expressing their own needs and desires."
+        },
+        "careers": [
+            "Teacher",
+            "Nurse",
+            "Counselor",
+            "Social Worker",
+            "Accountant"
+        ],
+        "interests": [
+            "Reading",
+            "Cooking/Baking",
+            "Gardening",
+            "Watching TV/Movies",
+            "Spending time with family and friends"
+        ],
+        "famous_persons": {
+            "Roger Scruton": {
+                "url": "https://www.personality-database.com/profile/35488",
+                "image_url": "https://static1.personality-database.com/profile_images/0185589fff724ddb8713fbd178766544.png"
+            },
+            "Paul Ekman": {
+                "url": "https://www.personality-database.com/profile/200034",
+                "image_url": "https://static1.personality-database.com/profile_images/e77d77b5682d4e3db78e95cea32895b4.png"
+            },
+            "Mima Kirigoe": {
+                "url": "https://www.personality-database.com/profile/8400",
+                "image_url": "https://static1.personality-database.com/profile_images/e39a8109cf1046ae81fb94eceea59785.png"
+            },
+            "Ed Sheeran": {
+                "url": "https://www.personality-database.com/profile/1862",
+                "image_url": "https://static1.personality-database.com/profile_images/d99c27c68ba44477992c9702d5132970.png"
+            },
+            "Bob Ross": {
+                "url": "https://www.personality-database.com/profile/10933",
+                "image_url": "https://static1.personality-database.com/profile_images/cb076f80e3154898ab4d783d381b78e5.png"
+            }
+        }
+    },
+    "estj": {
+        "description": "\tThe ESTJ personality type is commonly known as the \"Executive.\" ESTJs are practical, efficient, and decisive individuals who are driven by a strong sense of duty and responsibility. They are natural leaders who excel in positions of authority and are respected for their ability to get things done. ESTJs are highly organized and detail-oriented, and they thrive in environments that are structured and predictable.\n\n\tOne of the defining characteristics of the ESTJ personality type is their sense of order and control. They are skilled at managing people, resources, and projects, and are often sought after for their ability to bring order to chaotic situations. ESTJs have a clear sense of right and wrong, and they are committed to upholding rules and traditions. They value hard work, discipline, and responsibility, and are driven to succeed in all areas of their lives. ESTJs can be seen as tough-minded and no-nonsense, but they are also dependable and loyal friends and partners.",
+        "strengths": {
+            "Efficient": "ESTJs are skilled at managing resources and getting things done quickly and effectively.",
+            "Reliable": "ESTJs are known for their dependability and their ability to follow through on commitments.",
+            "Practical": "ESTJs are grounded in reality and have a practical approach to problem-solving.",
+            "Organized": "ESTJs have a natural talent for organization and are skilled at managing complex systems.",
+            "Decisive": "ESTJs are confident decision-makers who are not afraid to take charge and lead others."
+        },
+        "weaknesses": {
+            "Inflexible": "ESTJs may struggle with being too rigid or inflexible, which can make it difficult to adapt to new situations or ideas.",
+            "Overly Critical": "ESTJs may be overly critical of themselves and others, which can lead to feelings of dissatisfaction and disappointment.",
+            "Impatient": "ESTJs may become frustrated with others who do not share their sense of urgency or who do not work as quickly as they do.",
+            "Insensitive": "ESTJs may be seen as insensitive or harsh in their communication style, which can lead to conflict with others.",
+            "Difficulty with Change": "ESTJs may struggle with change and may have difficulty adapting to new situations or ideas."
+        },
+        "ideal_partners": {
+            "ISTP": "ISTPs are often seen as a good match for ESTJs. They are practical and analytical, and share ESTJs' love of efficiency and problem-solving. They are also independent thinkers who can challenge ESTJs' ideas and provide a fresh perspective on situations.",
+            "INTP": "INTPs are logical and creative thinkers who enjoy exploring complex ideas and theories. They can provide a sense of intellectual stimulation and curiosity to the relationship, and their independent nature can complement ESTJs' need for autonomy and independence.",
+            "ESFJ": "ESFJs are warm and sociable individuals who are highly skilled at building and maintaining relationships. They can provide a sense of emotional support and stability to ESTJs, and their outgoing nature can help ESTJs to be more socially engaged.",
+            "ENTP": "ENTPs are innovative and strategic thinkers who can bring a sense of creativity and exploration to the relationship. They can challenge ESTJs' ideas and provide new perspectives on situations, while also sharing ESTJs' love of efficiency and effectiveness.",
+            "ISFJ": "ISFJs are practical and responsible individuals who value tradition and stability. They can provide a sense of emotional depth and support to ESTJs, and their attention to detail can complement ESTJs' need for precision and accuracy."
+        },
+        "careers": [
+            "Business Executive",
+            "Military Officer",
+            "Police Officer",
+            "Accountant",
+            "Lawyer"
+        ],
+        "interests": [
+            "Organizing",
+            "Sports",
+            "Reading Non-Fiction",
+            "Volunteering in the community",
+            "Learning new skills and taking courses"
+        ],
+        "famous_persons": {
+            "Georg Simmel": {
+                "url": "https://www.personality-database.com/profile/34466",
+                "image_url": "https://static1.personality-database.com/profile_images/84febef152774d38825818cb39e89b77.png"
+            },
+            "Frederick Winslow Taylor": {
+                "url": "https://www.personality-database.com/profile/54317",
+                "image_url": "https://static1.personality-database.com/profile_images/afcb87a78be64d7bb220084fbe0be942.png"
+            },
+            "Rudol von Stroheim": {
+                "url": "https://www.personality-database.com/profile/19084",
+                "image_url": "https://static1.personality-database.com/profile_images/a6a962154a314784b4371107c5e39927.png"
+            },
+            "Bing Crosby": {
+                "url": "https://www.personality-database.com/profile/20643",
+                "image_url": "https://static1.personality-database.com/profile_images/bab5af23ffdb415dae55bb89ad446a11.png"
+            },
+            "Gordon Ramsay": {
+                "url": "https://www.personality-database.com/profile/4683",
+                "image_url": "https://static1.personality-database.com/profile_images/faadc71d93574a2bb9f7448814a384f2.png"
+            }
+        }
+    },
+    "esfj": {
+        "description": "\tThe ESFJ personality type is known as the \"Provider.\" These individuals are warm, friendly, and highly sociable, with a natural talent for connecting with others. ESFJs are highly attuned to the emotions and needs of those around them, and they are skilled at using this awareness to build and maintain strong relationships. They are deeply committed to their family and friends and are always eager to lend a helping hand when needed.\n\n\tESFJs are highly conscientious individuals who take their responsibilities seriously. They are natural caretakers and are often found in nurturing professions like teaching, healthcare, or social work. ESFJs thrive in structured environments where they can use their organizational skills and attention to detail to get things done efficiently. They are loyal and dependable, and they take pride in their ability to follow through on their commitments. However, their strong sense of duty can sometimes lead them to take on too much and neglect their own needs in the process.",
+        "strengths": {
+            "Compassionate": "ESFJs are driven by a deep sense of compassion for others and are often drawn to helping professions.",
+            "Social": "ESFJs have strong social skills and are skilled at building and maintaining close relationships.",
+            "Responsible": "ESFJs are reliable and responsible individuals who take their commitments seriously.",
+            "Warm": "ESFJs have a warm and friendly nature that makes others feel comfortable and valued.",
+            "Dependable": "ESFJs are known for their dependability and their ability to provide emotional support to others."
+        },
+        "weaknesses": {
+            "Overly Focused on Others": "ESFJs may become so focused on the needs of others that they neglect their own needs and desires.",
+            "Avoids Conflict": "ESFJs may avoid conflict to maintain harmony, even when it is necessary for resolution or growth.",
+            "Difficulty with Change": "ESFJs may struggle with change and may have difficulty adapting to new situations or ideas.",
+            "May Be Overly Emotional": "ESFJs may become overwhelmed by their emotions, which can make it difficult for them to make rational decisions.",
+            "May Be Overly Dependent": "ESFJs may become overly dependent on others for validation and approval."
+        },
+        "ideal_partners": {
+            "ISTJ": "ISTJs share ESFJs' practical, down-to-earth nature and value tradition and stability. They are dependable, loyal partners who can provide a sense of security and order to the relationship.",
+            "ISFP": "ISFPs are gentle, artistic individuals who value harmony and authenticity. They share ESFJs' love of people and social connection, and can provide a sense of emotional depth and creativity to the relationship.",
+            "INFP": "INFPs are sensitive and compassionate individuals who value authenticity and creativity. They are often drawn to ESFJs' warmth and caring nature, and can provide a sense of emotional depth and support to the relationship. INFPs also have a unique ability to understand and appreciate ESFJs' values and principles.",
+            "ENFJ": "ENFJs are warm, charismatic individuals who are highly skilled at building and maintaining relationships. They share ESFJs' love of people and social connection, and can provide a sense of emotional depth and support to the relationship. ENFJs also have a unique ability to understand and appreciate ESFJs' values and principles, making them natural partners in both personal and professional settings."
+        },
+        "careers": [
+            "Teacher",
+            "Nurse",
+            "Social Worker",
+            "Event Planner",
+            "Customer Service Representative"
+        ],
+        "interests": [
+            "Volunteering",
+            "Cooking/Baking",
+            "Organizing",
+            "Spending time with loved ones",
+            "Attending social events"
+        ],
+        "famous_persons": {
+            "Pope Francis": {
+                "url": "https://www.personality-database.com/profile/",
+                "image_url": "https://static1.personality-database.com/profile_images/56a542ba5057436ab606333a5eb592c4.png"
+            },
+            "Harland Sanders": {
+                "url": "https://www.personality-database.com/profile/49246",
+                "image_url": "https://static1.personality-database.com/profile_images/094931f7a355438ab121408cda777aac.png"
+            },
+            "Miki Makimura": {
+                "url": "https://www.personality-database.com/profile/15324",
+                "image_url": "https://static1.personality-database.com/profile_images/f4115fcc605547778c930df8048566fc.png"
+            },
+            "Papyrus": {
+                "url": "https://www.personality-database.com/profile/3331",
+                "image_url": "https://static1.personality-database.com/profile_images/ea0ebcbf252a4090a1343d3506e0ee70.png"
+            },
+            "Paul McCartney": {
+                "url": "https://www.personality-database.com/profile/142",
+                "image_url": "https://static1.personality-database.com/profile_images/300b8e874ded4eb9a060e737acff2c09.png"
+            }
+        }
+    },
+    "istp": {
+        "description": "\tThe ISTP personality type, also known as the \"Virtuoso,\" is a highly independent and practical individual. They are known for their love of adventure and hands-on experience, often exploring the world through physical activities like sports, hiking, or other outdoor pursuits. ISTPs are deeply analytical and enjoy solving complex problems, but they prefer to do so through direct, tangible action rather than abstract theory.\n\n\tISTPs are also incredibly adaptable and quick-thinking individuals who thrive in situations that require a level-headed approach. They are skilled at remaining calm and focused under pressure, and their logical, analytical minds allow them to find efficient solutions to problems. However, their preference for independent work can sometimes lead them to neglect their social connections, and ISTPs may need to consciously make an effort to prioritize building and maintaining relationships with others.",
+        "strengths": {
+            "Practical": "ISTPs are highly practical individuals who excel at analyzing and solving problems in a hands-on way.",
+            "Adaptable": "ISTPs are adaptable individuals who are unafraid to take risks and try new things.",
+            "Independent": "ISTPs value independence and self-sufficiency, and often prefer to work alone or in small groups.",
+            "Cool-Headed": "ISTPs are known for their calm and collected demeanor, even in high-pressure situations.",
+            "Resourceful": "ISTPs are highly resourceful individuals who are skilled at finding creative solutions to problems."
+        },
+        "weaknesses": {
+            "May Be Impulsive": "ISTPs may act impulsively, without considering the consequences of their actions.",
+            "May Be Emotionally Reserved": "ISTPs may struggle with expressing their emotions or connecting with others on an emotional level.",
+            "May Be Indecisive": "ISTPs may struggle with decision-making, as they prefer to weigh all options before making a choice.",
+            "May Be Detached": "ISTPs may appear distant or uninterested in others, which can make it difficult to build close relationships.",
+            "May Be Overly Competitive": "ISTPs may become overly competitive, especially when it comes to physical activities or challenges."
+        },
+        "ideal_partners": {
+            "ESTJ": "ESTJs are practical and goal-oriented individuals who share ISTPs' love of efficiency and logic. They are natural planners and can provide stability to the relationship, making them an ideal match for ISTPs.",
+            "ENTJ": "ENTJs are confident and strategic thinkers who share ISTPs' analytical nature. They also have a strong drive for success and are excellent at providing structure and direction in the relationship.",
+            "ISFJ": "ISFJs are warm and nurturing individuals who are highly attuned to the needs of others. They are natural caregivers and can provide emotional support to ISTPs, who may struggle with expressing their emotions.",
+            "INTP": "INTPs are curious and analytical individuals who share ISTPs' love of exploring complex ideas and theories. They also have a deep appreciation for the ISTP's practical and hands-on approach to problem-solving.",
+            "ISTJ": "ISTJs are reliable and responsible individuals who share ISTPs' preference for structure and routine. They are also highly dependable partners who can provide stability and security in the relationship."
+        },
+        "careers": [
+            "Mechanic",
+            "Engineer",
+            "Construction Worker",
+            "Pilot",
+            "Athlete"
+        ],
+        "interests": [
+            "Working with Tools",
+            "Outdoor Activities (e.g. hiking, camping)",
+            "Sports (e.g. martial arts, rock climbing)",
+            "Gaming",
+            "Music (e.g. playing an instrument)"
+        ],
+        "famous_persons": {
+            "Diogenes": {
+                "url": "https://www.personality-database.com/profile/29239",
+                "image_url": "https://static1.personality-database.com/profile_images/0cb5bf959cf94c91860bb3c2a999fbe8.png"
+            },
+            "Alfred Nobel": {
+                "url": "https://www.personality-database.com/profile/34971",
+                "image_url": "https://static1.personality-database.com/profile_images/79b4218f2539420d88ed37418db742a5.png"
+            },
+            "Alucard": {
+                "url": "https://www.personality-database.com/profile/2445",
+                "image_url": "https://static1.personality-database.com/profile_images/e622f61980a2413e8e533f811a55c350.png"
+            },
+            "Eminem": {
+                "url": "https://www.personality-database.com/profile/1881",
+                "image_url": "https://static1.personality-database.com/profile_images/fe73cdfe89ae4049814b84d51c9a83ea.png"
+            },
+            "Andrzej Sapkowski": {
+                "url": "https://www.personality-database.com/profile/34945",
+                "image_url": "https://static1.personality-database.com/profile_images/c28ad74243bd4c3798821e5339858982.png"
+            }
+        }
+    },
+    "isfp": {
+        "description": "\tThe ISFP personality type is often referred to as the \"Adventurer,\" as they are spontaneous and free-spirited individuals who are constantly seeking new experiences and opportunities. They have a deep appreciation for beauty and aesthetics and are often talented artists, musicians, or writers. ISFPs are also highly empathetic and compassionate individuals who care deeply about the feelings of others, often making them great friends and confidants.\n\n\tISFPs value their independence and autonomy and are often driven by a desire to create a life that aligns with their personal values and beliefs. They tend to be quiet and reserved individuals, preferring to observe and take in their surroundings rather than dominating the conversation. However, once they feel comfortable in a social setting, ISFPs can be warm and engaging, often surprising others with their wit and humor. While they may not be the most outgoing of individuals, ISFPs are fiercely loyal and will go to great lengths to support and protect the people they care about.",
+        "strengths": {
+            "Creative": "ISFPs have a rich inner world and a natural creativity that allows them to express themselves through art, music, and writing.",
+            "Empathetic": "ISFPs are highly attuned to the emotions of others and are skilled at providing emotional support and understanding.",
+            "Authentic": "ISFPs value authenticity and honesty in themselves and others, and strive to live in accordance with their true selves.",
+            "Flexible": "ISFPs are adaptable individuals who are unafraid to try new things and explore the world around them.",
+            "Easy-Going": "ISFPs have a relaxed and easy-going demeanor, which can make them popular with others."
+        },
+        "weaknesses": {
+            "May Be Overly Sensitive": "ISFPs may be easily hurt or offended by criticism or perceived slights.",
+            "May Be Indecisive": "ISFPs may struggle with decision-making, as they want to consider all possibilities and make the best choice for everyone involved.",
+            "May Be Disorganized": "ISFPs may struggle with organization and may have difficulty with tasks that require attention to detail.",
+            "May Be Overly Self-Critical": "ISFPs may be overly critical of themselves, which can lead to low self-esteem and self-doubt.",
+            "May Avoid Conflict": "ISFPs prefer harmony and may avoid conflict, even when it is necessary for resolution or growth."
+        },
+        "ideal_partners": {
+            "ESFJ": "ESFJs are highly social individuals who enjoy nurturing and taking care of others. They are highly attuned to the emotions of those around them, making them ideal partners for ISFPs who value empathy and support.",
+            "ENFJ": "ENFJs are warm and outgoing individuals who are highly skilled at building and maintaining relationships. They share ISFPs' appreciation for emotional depth and authenticity, making them excellent partners for ISFPs who seek a deep connection with their partner.",
+            "ISTJ": "ISTJs are reliable and practical individuals who share ISFPs' appreciation for structure and stability. They value hard work and dedication, making them natural partners for ISFPs who also value these traits.",
+            "ENTJ": "ENTJs are confident and ambitious individuals who enjoy taking charge and achieving their goals. They share ISFPs' appreciation for creativity and originality, making them ideal partners for ISFPs who seek a partner with a strong sense of direction.",
+            "INFP": "INFPs are sensitive and compassionate individuals who value authenticity and creativity. They are often drawn to ISFPs' artistic and unconventional nature, making them ideal partners for ISFPs who seek a partner who can appreciate and support their unique perspective.",
+            "ENFP": "ENFPs are outgoing and enthusiastic individuals who share ISFPs' appreciation for creativity and individuality. They value spontaneity and adventure, making them ideal partners for ISFPs who seek a partner who can bring excitement and new experiences to their life."
+        },
+        "careers": [
+            "Artist",
+            "Musician",
+            "Writer",
+            "Counselor/Therapist",
+            "Social Worker"
+        ],
+        "interests": [
+            "Creating Art",
+            "Playing Music",
+            "Exploring Nature",
+            "Reading Fiction",
+            "Attending Music Festivals/Concerts"
+        ],
+        "famous_persons": {
+            "Narcissus": {
+                "url": "https://www.personality-database.com/profile/20230",
+                "image_url": "https://static1.personality-database.com/profile_images/912a9ae448894779b7846d7922b59609.png"
+            },
+            "Alexander II of Russia": {
+                "url": "https://www.personality-database.com/profile/113321",
+                "image_url": "https://static1.personality-database.com/profile_images/8e7c0ca5b74043fbb5d950e95905fef4.png"
+            },
+            "Ai Ohto": {
+                "url": "https://www.personality-database.com/profile/237842",
+                "image_url": "https://static1.personality-database.com/profile_images/4f134e92ffdd41ac944c56c6380aa015.png"
+            },
+            "Michael Jackson": {
+                "url": "https://www.personality-database.com/profile/131",
+                "image_url": "https://static1.personality-database.com/profile_images/ef1377f0550c450283ee02f1fc97ccc1.png"
+            },
+            "Frida Kahlo": {
+                "url": "https://www.personality-database.com/profile/4978",
+                "image_url": "https://static1.personality-database.com/profile_images/2f7e2fcb7c8d4baa848df36c6296095e.png"
+            }
+        }
+    },
+    "estp": {
+        "description": "\tThe ESTP personality type is known as the \"Entrepreneur.\" They are outgoing, confident, and action-oriented individuals who thrive in high-energy environments. ESTPs are natural risk-takers who are always on the lookout for new and exciting experiences. They have a strong desire to be in control of their lives and are not afraid to take charge when necessary. ESTPs are skilled at reading people and situations, and they use this ability to adapt quickly to changing circumstances.\n\n\tESTPs are often seen as the life of the party. They enjoy being the center of attention and are skilled at entertaining others. They have a natural charisma and are able to connect with people from all walks of life. ESTPs are also very practical and results-driven. They are always looking for ways to improve their skills and achieve their goals. This drive for success can sometimes lead ESTPs to take on too much at once, but they thrive under pressure and are able to perform well in high-stress situations. Overall, ESTPs are dynamic, action-oriented individuals who are always looking for their next challenge.",
+        "strengths": {
+            "Practical": "ESTPs are practical individuals who are skilled at finding solutions to problems and getting things done.",
+            "Charismatic": "ESTPs are natural leaders who are unafraid to take charge and inspire others.",
+            "Bold": "ESTPs are unafraid to take risks and try new things, making them well-suited for entrepreneurship and innovation.",
+            "Observant": "ESTPs are highly observant individuals who are skilled at reading people and situations.",
+            "Confident": "ESTPs are confident individuals who are comfortable in high-pressure situations and often thrive under stress."
+        },
+        "weaknesses": {
+            "Impulsive": "ESTPs may act impulsively without fully considering the consequences of their actions.",
+            "Insensitive": "ESTPs may be overly blunt or insensitive in their interactions with others, which can lead to conflicts and hurt feelings.",
+            "Risk-Taking": "ESTPs may take unnecessary risks, which can lead to failure or negative consequences.",
+            "Easily Bored": "ESTPs may become easily bored with routine tasks or activities, and may struggle with tasks that require sustained attention.",
+            "Dislike of Rules and Structure": "ESTPs may struggle in highly structured environments that limit their freedom and creativity."
+        },
+        "ideal_partners": {
+            "ISFJ": "ISFJs are dependable and supportive partners who value loyalty and tradition. They share ESTPs' practicality and attention to detail, and can help ESTPs focus on their long-term goals and plans.",
+            "ISTJ": "ISTJs are responsible and reliable partners who value stability and predictability. They share ESTPs' hardworking nature and commitment to success, and can provide a sense of structure and organization to the relationship.",
+            "ESFJ": "ESFJs are warm and caring individuals who are highly skilled at building and maintaining relationships. They share ESTPs' love of socializing and can provide a sense of emotional depth and support to the relationship.",
+            "ESTJ": "ESTJs are practical and decisive individuals who value efficiency and effectiveness. They share ESTPs' love of taking action and can help ESTPs channel their energy towards achieving their goals."
+        },
+        "careers": [
+            "Entrepreneur",
+            "Sales Representative",
+            "Marketing Executive",
+            "Athlete/Coach",
+            "Emergency Medical Technician"
+        ],
+        "interests": [
+            "Outdoor Adventures",
+            "Extreme Sports",
+            "Networking and Socializing",
+            "Competitive Gaming",
+            "Travel and Exploring New Places"
+        ],
+        "famous_persons": {
+            "Epicurus": {
+                "url": "https://www.personality-database.com/profile/11924",
+                "image_url": "https://static1.personality-database.com/profile_images/89915c53560d4d2197dabd28789a549d.png"
+            },
+            "Alexander the Great": {
+                "url": "https://www.personality-database.com/profile/308",
+                "image_url": "https://static1.personality-database.com/profile_images/a0c5924f641449069f976f5191b2b7f7.png"
+            },
+            "Joseph Joestar": {
+                "url": "https://www.personality-database.com/profile/5488",
+                "image_url": "https://static1.personality-database.com/profile_images/bad35df9066247f7b23d67f0a49b9fb8.png"
+            },
+            "Frank Sinatra": {
+                "url": "https://www.personality-database.com/profile/12942",
+                "image_url": "https://static1.personality-database.com/profile_images/63c46e5b004d4137be732f2c99f7c413.png"
+            },
+            "Ernest Hemingway": {
+                "url": "https://www.personality-database.com/profile/6309",
+                "image_url": "https://static1.personality-database.com/profile_images/bf4b6dc15d18425380ec58a76e2b7cda.png"
+            }
+        }
+    },
+    "esfp": {
+        "description": "\tThe ESFP personality type is also known as the \"Entertainer\". ESFPs are extraverted, sensing, feeling, and perceiving individuals who are known for their outgoing, energetic, and spontaneous nature. They are often the life of the party and enjoy being the center of attention. ESFPs are highly attuned to their senses and are drawn to experiences that are stimulating, exciting, and pleasurable. They value spontaneity, creativity, and fun, and seek out opportunities to connect with others and enjoy life to the fullest. ESFPs are often skilled at reading and responding to the emotional needs of others, and enjoy using their natural charm and charisma to build relationships and create a positive atmosphere.\n\n\tESFPs are known for their ability to adapt to new situations and their willingness to take risks. They enjoy living in the moment and often find it difficult to plan ahead or focus on long-term goals. They value their freedom and independence, and are often drawn to careers and hobbies that allow them to express their creativity and connect with others in a meaningful way.",
+        "strengths": {
+            "Charismatic": "ESFPs are highly social individuals who are often described as charming, outgoing, and likable.",
+            "Creative": "ESFPs have a natural creativity and enjoy expressing themselves through various forms of art and performance.",
+            "Spontaneous": "ESFPs are known for their ability to adapt to new situations and their willingness to take risks.",
+            "Energetic": "ESFPs are full of energy and enjoy being active and engaged in a variety of different activities.",
+            "Empathetic": "ESFPs are highly attuned to the emotions of others and are often skilled at providing emotional support and understanding."
+        },
+        "weaknesses": {
+            "Impulsive": "ESFPs may act impulsively without fully considering the consequences of their actions.",
+            "Easily Bored": "ESFPs may become easily bored with routine tasks or activities, and may struggle with tasks that require sustained attention.",
+            "Poor Planning": "ESFPs may find it difficult to plan ahead or focus on long-term goals.",
+            "Sensitive": "ESFPs may be highly sensitive to criticism or rejection, and may struggle with feelings of insecurity.",
+            "Dislike of Conflict": "ESFPs prefer harmony and may avoid conflict, even when it is necessary for resolution or growth."
+        },
+        "ideal_partners": {
+            "ISTJ": "ISTJs are responsible and dependable individuals who value tradition and stability. They share ESFPs' practical and realistic approach to life and can provide a sense of grounding and structure to the relationship.",
+            "ISFJ": "Like ISTJs, ISFJs are loyal and reliable individuals who enjoy creating and maintaining a comfortable home environment. They share ESFPs' love of pleasure and enjoyment, and can provide a sense of emotional support and understanding to the relationship.",
+            "ESTJ": "ESTJs are confident and assertive individuals who value efficiency and organization. They share ESFPs' practical and action-oriented approach to life and can provide a sense of stability and structure to the relationship.",
+            "ENFP": "ENFPs are enthusiastic and creative individuals who enjoy exploring new ideas and possibilities. They share ESFPs' love of fun and adventure, and can provide a sense of excitement and spontaneity to the relationship.",
+            "ESFJ": "ESFJs are warm and caring individuals who are highly skilled at building and maintaining relationships. They share ESFPs' love of socializing and having fun, and can provide a sense of emotional support and understanding to the relationship."
+        },
+        "careers": [
+            "Actor/Actress",
+            "Musician",
+            "Dancer/Choreographer",
+            "Event Planner",
+            "Sales Representative"
+        ],
+        "interests": [
+            "Performing Arts",
+            "Partying and Socializing",
+            "Travel and Adventure",
+            "Sports and Fitness",
+            "Cooking and Entertaining"
+        ],
+        "famous_persons": {
+            "Dionysus": {
+                "url": "https://www.personality-database.com/profile/5187",
+                "image_url": "https://static1.personality-database.com/profile_images/4cd42ffc113e4d3dbf3eff1e616467cf.png"
+            },
+            "Nero": {
+                "url": "https://www.personality-database.com/profile/4336",
+                "image_url": "https://static1.personality-database.com/profile_images/ef15f344a63c4a9a83c72af930967295.png"
+            },
+            "Hayase Nagatoro": {
+                "url": "https://www.personality-database.com/profile/20495",
+                "image_url": "https://static1.personality-database.com/profile_images/a51fa2502c6a4c2f8a0f6cff78ec462a.png"
+            },
+            "Wolfgang Amadeus Mozart": {
+                "url": "https://www.personality-database.com/profile/5669",
+                "image_url": "https://static1.personality-database.com/profile_images/3ccb801392e74556b62e46ed6daf7a75.png"
+            },
+            "Pablo Picasso": {
+                "url": "https://www.personality-database.com/profile/4975",
+                "image_url": "https://static1.personality-database.com/profile_images/3446c4c98f424ead83acf1e9ad918b1b.png"
+            }
+        }
+    }
+}
