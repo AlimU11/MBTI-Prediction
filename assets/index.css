@@ -215,11 +215,9 @@ div:has(> #input_switch) > * {
 
 #input_tokens_toast {
     position: absolute;
-    /* left: 25rem; */
+    left: 12rem;
     margin-left: auto;
     margin-right: auto;
-    left: 0;
-    right: 0;
     z-index: 1;
     width: 25rem;
     height: 25rem;
